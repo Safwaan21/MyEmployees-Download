@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/Safwaan/Downloads/appInstaller/test.appinstaller"
+	Version="2.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="c8cb156e-7857-46aa-9956-ff7003ad6070"
+		Version="2.0.1.0"
+		Publisher="CN=Safwaan"
+		Uri="file:///C:\Users\Safwaan\Downloads\appInstaller\MyEmployees.Package.Embedded_2.0.1.0_Test\MyEmployees.Package.Embedded_2.0.1.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
